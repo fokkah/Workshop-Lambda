@@ -46,7 +46,7 @@ public class DataStorageImpl implements DataStorage {
 
     @Override
     public Person findOne(Predicate<Person> filter) {
-        // TODO: needs completion
+
         return null;
     }
 
